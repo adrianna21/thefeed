@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(244, 203, 163);
+    max-width: 1200px;
+    margin: auto;
+}
+
+header {
+    width: 400px;
+    top: 7%;
+    right: 300px;
+    text-decoration: none;
+}
+
+main {
+    width: 650px;
+    margin-left: 500px;
+}
+
+section {
+    border: 1px rgb(77, 35, 42);
+    margin-top: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+section img {
+    border: 1px rgb(77, 35, 42);
+    padding: 5px;
+}
+
+section img:hover {
+    background-color: rgb(136, 172, 137);
+}
+
+section img {
+    text-align: center;
+}
+
+nav {
+    width: 400px;
+    top: 800px;
+    left: 35px;
+}
+
+footer {
+    width: 400px;
+    top: 300px;
+    bottom: 25px;
+    left: 25px;
+}
+
+#meee {
+    text-align: center;
+    margin-top: 50%;
+}
