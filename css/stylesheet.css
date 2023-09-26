@@ -84,7 +84,8 @@ footer {
     height: 500px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     overflow-y: scroll;
-    text-decoration: dotted;
+    text-decoration: dotted;   
+    border-radius: 20px;
 }
 
 #friend {
@@ -97,5 +98,9 @@ footer {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     overflow-y: scroll;
     text-decoration: dotted;
+    top: 19%;
+    left: 25px;
+    border-radius: 20px;
+    position: fixed;
 }
 
